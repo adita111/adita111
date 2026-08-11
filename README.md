@@ -42,9 +42,9 @@ I'm a Computer Science graduate interested in Web Development, Software Engineer
 
 ## 📊 GitHub Stats
 
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adita111&show_icons=true&theme=tokyonight)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adita111&layout=compact&theme=tokyonight)
+![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=adita111&theme=tokyonight)
 
