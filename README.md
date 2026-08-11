@@ -42,7 +42,7 @@ I'm a Computer Science graduate interested in Web Development, Software Engineer
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](./profile/stats.svg)
+![Adi's GitHub Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
 
