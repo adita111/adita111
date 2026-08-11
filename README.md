@@ -1,13 +1,18 @@
-# Hey there, I'm Adi 👋
+
+<h1 align="center">Hey there, I'm Adi 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Computer+Science+Graduate;%F0%9F%92%BB+Web+Development+Enthusiast" alt="Typing SVG" />
+</p>
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate interested in Web Development, Software Engineering and Artificial Intelligence.
+I'm a Computer Science graduate with a interest in Web Development, Software Engineering, and Artificial Intelligence. I enjoy building practical applications, exploring new technologies, and improving my skills through hands-on projects. I'm especially interested in full-stack development, modern web technologies, and creating efficient and user-friendly software solutions. I also enjoy learning about AI and experimenting with different approaches to solve real-world problems.
 
 - 🔭 Working on personal software projects
 - 🌱 Learning Angular, Node.js, TypeScript and Java
-- 🤖 Interested in Artificial Intelligence and Reinforcement Learning
 - 💻 Building full-stack web applications
+- 🤖 Interested in Artificial Intelligence and Reinforcement Learning
 - 🎮 Worked on a Reinforcement Learning project using PPO
 
 ## 🛠️ Technologies
