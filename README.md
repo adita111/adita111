@@ -2,22 +2,26 @@
 <h1 align="center">Hey there, I'm Adi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Computer+Science+Graduate;%F0%9F%92%BB+Web+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+Computer+Science+Graduate;%F0%9F%92%BB+Web+Development+Enthusiast;%F0%9F%92%8E+Learning+Ruby+%26+Ruby+on+Rails" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate with a interest in Web Development, Software Engineering, and Artificial Intelligence. I enjoy building practical applications, exploring new technologies, and improving my skills through hands-on projects. I'm especially interested in full-stack development, modern web technologies, and creating efficient and user-friendly software solutions. I also enjoy learning about AI and experimenting with different approaches to solve real-world problems.
+I'm a Computer Science graduate with a strong interest in Web Development, Software Engineering, and Artificial Intelligence. I enjoy building practical applications, exploring new technologies, and continuously improving my skills through hands-on projects.
 
+I'm especially interested in full-stack development and modern web technologies. Recently, I've also started learning Ruby and exploring Ruby on Rails, with the goal of expanding my backend development skills and working with different approaches to building web applications.
+
+- 🌱 Currently learning Ruby and exploring Ruby on Rails
 - 🔭 Working on personal software projects
-- 🌱 Learning Angular, Node.js, TypeScript and Java
 - 💻 Building full-stack web applications
+- ⚙️ Working with Angular, Node.js, TypeScript and Java
 - 🤖 Interested in Artificial Intelligence and Reinforcement Learning
 - 🎮 Worked on a Reinforcement Learning project using PPO
 
 ## 🛠️ Technologies
 
 ### Languages
+![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
@@ -33,6 +37,7 @@ I'm a Computer Science graduate with a interest in Web Development, Software Eng
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-Learning-000?style=for-the-badge&logo=rubyonrails)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
