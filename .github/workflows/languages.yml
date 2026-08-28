@@ -1,0 +1,40 @@
+name: Generate Language Charts
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate language charts
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          python scripts/generate_languages.py
+
+      - name: Commit generated charts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/languages-by-repo.svg
+          git add profile/languages-by-commit.svg
+
+          git commit -m "Update language charts" || exit 0
+          git push
