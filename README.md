@@ -56,9 +56,14 @@ I'm especially interested in full-stack development and modern web technologies.
   <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/languages-by-repo.svg" width="48%" alt="Top Languages by Repo" />
+  <img src="./profile/languages-by-commit.svg" width="48%" alt="Top Languages by Commit" />
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adita111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
