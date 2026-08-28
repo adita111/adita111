@@ -74,9 +74,8 @@ I'm especially interested in full-stack development and modern web technologies.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adita111/adita111/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/adita111/adita111/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
 ---
 
 ## 🚀 Featured Interests
