@@ -28,7 +28,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: 'username=adita111&layout=donut&theme=tokyonight&langs_count=8&exclude_repo=Aplicatie-ASP-NET-citire-grade&size_weight=0.5&count_weight=0.5'
+          options: 'username=adita111&layout=compact&theme=tokyonight&langs_count=8&hide=C'
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
 
