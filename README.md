@@ -52,11 +52,25 @@ I'm especially interested in full-stack development and modern web technologies.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](./profile/stats.svg)
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
 
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adita111&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adita111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adita111/adita111/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
@@ -64,6 +78,7 @@ I'm especially interested in full-stack development and modern web technologies.
 
 - Web Development
 - Full-Stack Development
+- Ruby & Ruby on Rails
 - Artificial Intelligence
 - Reinforcement Learning
 - Software Engineering
@@ -72,4 +87,5 @@ I'm especially interested in full-stack development and modern web technologies.
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=adita111&style=for-the-badge)
+
+  <img src="https://komarev.com/ghpvc/?username=adita111&style=for-the-badge" alt="Profile Views" />
