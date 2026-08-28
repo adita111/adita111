@@ -14,7 +14,7 @@ I'm especially interested in full-stack development and modern web technologies.
 - 🌱 Currently learning Ruby and exploring Ruby on Rails
 - 🔭 Working on personal software projects
 - 💻 Building full-stack web applications
-- ⚙️ Working with Angular, Node.js, TypeScript and Java
+- ⚙️ Working with Angular, Node.js, TypeScript 
 - 🤖 Interested in Artificial Intelligence and Reinforcement Learning
 - 🎮 Worked on a Reinforcement Learning project using PPO
 
@@ -24,7 +24,6 @@ I'm especially interested in full-stack development and modern web technologies.
 ![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
@@ -55,7 +54,6 @@ I'm especially interested in full-stack development and modern web technologies.
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
-
 <br>
 
 <p align="center">
@@ -68,6 +66,8 @@ I'm especially interested in full-stack development and modern web technologies.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adita111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
 
 ---
 
