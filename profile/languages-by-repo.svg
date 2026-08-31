@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="430" height="240" viewBox="0 0 430 240">
 <rect width="100%" height="100%" rx="7" fill="#0D1117"/>
 <text x="28" y="38" font-family="Arial, sans-serif" font-size="22" fill="#FF3B8D">Top Languages by Repo</text>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#3178C6" stroke-width="22" stroke-dasharray="143.11196067994857 158.48093406467157" stroke-dashoffset="0" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#F1E05A" stroke-width="22" stroke-dasharray="97.35796917615797 204.2349255684622" stroke-dashoffset="-143.11196067994857" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#E34C26" stroke-width="22" stroke-dasharray="27.506861160252846 274.08603358436727" stroke-dashoffset="-240.46992985610655" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#C6538C" stroke-width="22" stroke-dasharray="19.85188636350383 281.74100838111633" stroke-dashoffset="-267.9767910163594" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#178600" stroke-width="22" stroke-dasharray="5.20912975182722 296.3837649927929" stroke-dashoffset="-287.8286773798632" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#563D7C" stroke-width="22" stroke-dasharray="4.284734996218531 297.30815974840164" stroke-dashoffset="-293.03780713169044" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#CC342D" stroke-width="22" stroke-dasharray="4.2703526167111825 297.32254212790895" stroke-dashoffset="-297.32254212790895" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#3178C6" stroke-width="22" stroke-dasharray="142.6343662013169 158.95852854330323" stroke-dashoffset="0" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#F1E05A" stroke-width="22" stroke-dasharray="97.09524302664114 204.497651717979" stroke-dashoffset="-142.6343662013169" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#E34C26" stroke-width="22" stroke-dasharray="27.415065024191204 274.1778297204289" stroke-dashoffset="-239.72960922795806" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#C6538C" stroke-width="22" stroke-dasharray="19.78563647584534 281.8072582687748" stroke-dashoffset="-267.1446742521493" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#CC342D" stroke-width="22" stroke-dasharray="5.200402276505911 296.39249246811426" stroke-dashoffset="-286.93031072799465" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#178600" stroke-width="22" stroke-dasharray="5.191745798759087 296.40114894586105" stroke-dashoffset="-292.13071300450054" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#563D7C" stroke-width="22" stroke-dasharray="4.270435941360564 297.32245880325956" stroke-dashoffset="-297.3224588032596" transform="rotate(-90 305 132)"/>
 <circle cx="305" cy="132" r="36" fill="#0D1117"/>
 <rect x="32" y="62" width="13" height="13" fill="#3178C6"/>
-<text x="52" y="72" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">TypeScript 47.5%</text>
+<text x="52" y="72" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">TypeScript 47.3%</text>
 <rect x="32" y="85" width="13" height="13" fill="#F1E05A"/>
-<text x="52" y="95" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">JavaScript 32.3%</text>
+<text x="52" y="95" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">JavaScript 32.2%</text>
 <rect x="32" y="108" width="13" height="13" fill="#E34C26"/>
 <text x="52" y="118" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">HTML 9.1%</text>
 <rect x="32" y="131" width="13" height="13" fill="#C6538C"/>
 <text x="52" y="141" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">SCSS 6.6%</text>
-<rect x="32" y="154" width="13" height="13" fill="#178600"/>
-<text x="52" y="164" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">C# 1.7%</text>
-<rect x="32" y="177" width="13" height="13" fill="#563D7C"/>
-<text x="52" y="187" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">CSS 1.4%</text>
-<rect x="32" y="200" width="13" height="13" fill="#CC342D"/>
-<text x="52" y="210" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">Ruby 1.4%</text>
+<rect x="32" y="154" width="13" height="13" fill="#CC342D"/>
+<text x="52" y="164" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">Ruby 1.7%</text>
+<rect x="32" y="177" width="13" height="13" fill="#178600"/>
+<text x="52" y="187" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">C# 1.7%</text>
+<rect x="32" y="200" width="13" height="13" fill="#563D7C"/>
+<text x="52" y="210" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">CSS 1.4%</text>
 </svg>
