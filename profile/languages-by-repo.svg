@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="430" height="240" viewBox="0 0 430 240">
 <rect width="100%" height="100%" rx="7" fill="#0D1117"/>
 <text x="28" y="38" font-family="Arial, sans-serif" font-size="22" fill="#FF3B8D">Top Languages by Repo</text>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#3178C6" stroke-width="22" stroke-dasharray="142.6343662013169 158.95852854330323" stroke-dashoffset="0" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#F1E05A" stroke-width="22" stroke-dasharray="97.09524302664114 204.497651717979" stroke-dashoffset="-142.6343662013169" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#E34C26" stroke-width="22" stroke-dasharray="27.415065024191204 274.1778297204289" stroke-dashoffset="-239.72960922795806" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#C6538C" stroke-width="22" stroke-dasharray="19.78563647584534 281.8072582687748" stroke-dashoffset="-267.1446742521493" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#CC342D" stroke-width="22" stroke-dasharray="5.200402276505911 296.39249246811426" stroke-dashoffset="-286.93031072799465" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#178600" stroke-width="22" stroke-dasharray="5.191745798759087 296.40114894586105" stroke-dashoffset="-292.13071300450054" transform="rotate(-90 305 132)"/>
-<circle cx="305" cy="132" r="48" fill="none" stroke="#563D7C" stroke-width="22" stroke-dasharray="4.270435941360564 297.32245880325956" stroke-dashoffset="-297.3224588032596" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#3178C6" stroke-width="22" stroke-dasharray="142.6277193181127 158.96517542650744" stroke-dashoffset="0" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#F1E05A" stroke-width="22" stroke-dasharray="97.09071830544478 204.50217643917534" stroke-dashoffset="-142.6277193181127" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#E34C26" stroke-width="22" stroke-dasharray="27.41378745876217 274.179107285858" stroke-dashoffset="-239.71843762355746" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#C6538C" stroke-width="22" stroke-dasharray="19.784714448298413 281.8081802963217" stroke-dashoffset="-267.1322250823196" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#CC342D" stroke-width="22" stroke-dasharray="5.214214419627528 296.3786803249926" stroke-dashoffset="-286.91693953061804" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#178600" stroke-width="22" stroke-dasharray="5.1915038589736815 296.40139088564644" stroke-dashoffset="-292.13115395024556" transform="rotate(-90 305 132)"/>
+<circle cx="305" cy="132" r="48" fill="none" stroke="#563D7C" stroke-width="22" stroke-dasharray="4.270236935400856 297.32265780921927" stroke-dashoffset="-297.32265780921927" transform="rotate(-90 305 132)"/>
 <circle cx="305" cy="132" r="36" fill="#0D1117"/>
 <rect x="32" y="62" width="13" height="13" fill="#3178C6"/>
 <text x="52" y="72" font-family="Arial, sans-serif" font-size="13" fill="#C9D1D9">TypeScript 47.3%</text>
