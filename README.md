@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+Computer+Science+Graduate;%F0%9F%92%BB+Web+Development+Enthusiast;%F0%9F%92%8E+Learning+Ruby+%26+Ruby+on+Rails" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 I'm a Computer Science graduate with a strong interest in Web Development, Software Engineering, and Artificial Intelligence. I enjoy building practical applications, exploring new technologies, and continuously improving my skills through hands-on projects.
 
