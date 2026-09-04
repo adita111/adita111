@@ -18,7 +18,7 @@ I'm especially interested in full-stack development and modern web technologies.
 - 🤖 Interested in Artificial Intelligence and Reinforcement Learning
 - 🎮 Worked on a Reinforcement Learning project using PPO
 
-## 🛠️ Technologies
+## 🛠️ Technologies 
 
 ### Languages
 ![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby)
